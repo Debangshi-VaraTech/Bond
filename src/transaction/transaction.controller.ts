@@ -16,7 +16,5 @@ export class TransactionController {
     return this.transactionService.getTransactionsByUserId(userId);
   }
 
-  
-
 
 }
